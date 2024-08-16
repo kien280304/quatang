@@ -1,0 +1,6 @@
+@media screen and (max-widh: 412){
+    .canvas{
+        width: 50%;
+        height: 50%;
+    }
+}
